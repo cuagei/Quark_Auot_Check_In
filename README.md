@@ -32,6 +32,8 @@
 
 - `user=张三; kps=abcdefg; sign=hijklmn; vcode=111111111;`
 > user字段是用户名 (可是随意填写，多账户方便区分)
+> 
+user=彼岸灯火; kps=AAQ8H7EP\/+M1sZq58YBinaLo\/PXFPffFAn54QDBvlunc3oFtl12rgSjvWpOEHBhgrD0tVRTFLK9bTy+5qkxI5wtpmRGmBAPKMBoc9rbAK1LBlA==; sign=AATch03I0Kzet56\/NDFoCrmxYr7opEzmGKGABnwjluXhzR0ca0pXB0DLWp5GkhqJhCk=; vcode=1740932457000;
 
 2. **添加到 GitHub Secrets**
    - 打开你的 Fork 仓库，进入 **Settings -> Secrets and variables -> Actions**。
